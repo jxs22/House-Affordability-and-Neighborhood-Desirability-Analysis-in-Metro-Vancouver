@@ -79,3 +79,4 @@ Yoou can also view the main workflow and code explanation in the included juypte
 ## Contact
 
 Please feel free to reach out to any of our team members ifyou have questions or issues!
+Members: Bikramveer Gill, Jagjot Kaur Sidhu, Nefertari Bakare
